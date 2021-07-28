@@ -1,0 +1,33 @@
+.custom-bg{
+    background-color: #264653;
+}
+.custom-btn{
+   padding: 10px 24px; 
+   color: white;
+   background: #E76F51;
+   border:0;
+   border-radius:5px;
+}
+.custom-header-image{
+    width: 100%;
+}
+.orange{
+    color: #E76F51;
+}
+/* .custom-feature-image{
+    width: 50%;
+} */
+.gray-scale{
+    filter: grayscale(1);
+}
+/* .user-custom-image{
+    height: 149px;
+    width: 149px;
+} */
+/* .rounded-circle{
+    width: 50% !important;
+} */
+.custom-icon{
+    /* background:#E76F51; */
+    color: #E76F51;
+}
