@@ -31,3 +31,22 @@
     /* background:#E76F51; */
     color: #E76F51;
 }
+
+.accordion-item{
+    border: 1px solid gray;
+}
+.most-selling{
+   background: #FFF9F4;
+   border-radius: 10px;
+}
+a.custom-btn,a.p-2{
+    text-decoration: none;
+    color: white;
+}
+.footer-custom{
+    background: #0B0D17;
+}
+
+.accordion-img{
+    width: 70%;
+}
